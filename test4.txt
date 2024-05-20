@@ -1,1 +1,1 @@
-gold coin CNN2T
+gold coin NF1KG
